@@ -1,3 +1,4 @@
 myenv/
 .DS_Store
 data-nn/*
+tb_logs/
